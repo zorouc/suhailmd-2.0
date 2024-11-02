@@ -5,17 +5,17 @@
 
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/SUHAIL-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
+<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/suhailmd-2.0?color=blue&style=flat-square"></a>
+<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/"><img title="Size" src="https://img.shields.io/github/repo-size/SuhailTechInfo/suhailmd-2.0?style=flat-square&color=green"></a>
+<a href="https://github.com/SuhailTechInfo/suhailmd-2.0/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/GlobalBotInc" target="_blank">
+  <a aria-label="Join our chats" href="https://t.me/suhailBotInc" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
@@ -28,7 +28,7 @@
 
   <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/SuhailTechInfo/suhailmd-2.0/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -40,7 +40,7 @@
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/GlobalTechInfo/SUHAIL-XMD/fork)***
+3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/SuhailTechInfo/suhailmd-2.0/fork)***
    
 4.  #### DEPLOY IN HEROKU 
 
@@ -49,7 +49,7 @@
 --------
 5.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/SuhailTechInfo/suhailmd-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 6.  #### DEPLOY IN KOYEB
@@ -110,7 +110,7 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/GlobalTechInfo/SUHAIL-XMD
+      git clone https://github.com/SuhailTechInfo/suhailmd-2.0
       cd SUHAIL-XMD
       yarn install --network-concurrency 1 && npm install
       ```
