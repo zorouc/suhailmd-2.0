@@ -23,7 +23,7 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SUHAIL-XMD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{SUHAILMD-2.0}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
 
 
   <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
@@ -143,7 +143,7 @@
       To stop bot ``` npm stop ```
 
 ### TUTORIAL FOR TERMUX/UBUNTU
-<a href="https://youtu.be/oXQjl39Bl7M"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/oXQjl39Bl7M" /><br>
+<a href="https://youtube.com/suhailtechinfo"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/suhailtechinfo" /><br>
 
 --------
 
@@ -186,16 +186,16 @@ sudo yarn global add pm2
 _Before Cloning It,Make Sure Get Session ID Via Pairing Or Scanning.Add Session ID And Owner Number In config.env And config.js.This Process Can Be Done In Fork Only.After That Clone The Fork And Execute Remaining Commands._
 
 ```
-git clone https://github.com/<your_username>/SUHAIL-XMD
+git clone https://github.com/SuhailTechInfo/suhailmd-2.0
 ```
 ```
-cd SUHAIL-XMD
+cd suhailmd-2.0
 ```
 ```
-yarn install --network-concurrency 1 && npm install
+npm install
 ```
 ```
-npm install && npm start
+npm start
 ```
   
  ---
@@ -208,8 +208,6 @@ npm install && npm start
  
 
 - Star ⭐ repo if you like this bot.
-- 
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
 --------
 
 
